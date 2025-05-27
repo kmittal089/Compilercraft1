@@ -1,6 +1,6 @@
 # CompilerCraft
 
-A simple custom compiler that processes a basic language with arithmetic expressions and an `EXIT` statement, compiling it down to x86-64 assembly and generating an executable.
+A simple custom compiler that processes a basic language with arithmetic expressions and an `EXIT` statement, compiling it down to  assembly and generating an executable.
 
 ---
 
